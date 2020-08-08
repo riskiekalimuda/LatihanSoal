@@ -1,0 +1,9 @@
+D:\PROJECT_WEB\LatihanSoal\bin\Debug\LatihanSoal.exe.config
+D:\PROJECT_WEB\LatihanSoal\bin\Debug\LatihanSoal.exe
+D:\PROJECT_WEB\LatihanSoal\bin\Debug\LatihanSoal.pdb
+D:\PROJECT_WEB\LatihanSoal\obj\Debug\LatihanSoal.csprojResolveAssemblyReference.cache
+D:\PROJECT_WEB\LatihanSoal\obj\Debug\LatihanSoal.exe
+D:\PROJECT_WEB\LatihanSoal\obj\Debug\LatihanSoal.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LatihanSoal\bin\Debug\LatihanSoal.exe.config
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LatihanSoal\obj\Debug\LatihanSoal.exe
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\LatihanSoal\obj\Debug\LatihanSoal.pdb

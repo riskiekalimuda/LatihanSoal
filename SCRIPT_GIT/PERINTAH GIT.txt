@@ -1,0 +1,13 @@
+$ git config --global user.name "....."
+$ git config --global user.email "...."
+go to the directory
+
+$ git clone url repo
+copy/buat source code
+
+lalu create remote
+$ git remote set-url origin https://.....
+
+untuk push semua code yg sudah commit, gunakan perintah berikut:
+
+$ git push origin master
