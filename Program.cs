@@ -1,4 +1,5 @@
 ﻿using LatihanSoal.BELAJAR_GROUPING_LINQ;
+using LatihanSoal.CONVERT_ARRAY;
 using LatihanSoal.Inherit;
 using LatihanSoal.STUDENT_DETAILS;
 using System;
@@ -15,8 +16,11 @@ namespace LatihanSoal
     {
         static void Main(string[] args)
         {
-            List<Student> lst = Student.GetAllStudents();
-            Student.TampilkanNilaiRataRata(lst);
+            twodmatrix twod = new twodmatrix(3, 2);
+            twod.readmatrix();
+            twod.printd();
+            twod.ConvertD();
+            twod.printoned();
         }
     }
 }
