@@ -1,5 +1,6 @@
 ﻿using LatihanSoal.BELAJAR_GROUPING_LINQ;
 using LatihanSoal.Inherit;
+using LatihanSoal.STUDENT_DETAILS;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,9 +15,8 @@ namespace LatihanSoal
     {
         static void Main(string[] args)
         {
-            String[] arrFiles = { "test.pdf", "akulah.xls", "dialah.xls", "kamu.pdf","ragu.ppt" };
-            var resultObj = GroupingFileApp.GetGroupingFile(arrFiles);
-            GroupingFileApp.CetakGroupingFiles(resultObj);
+            List<Student> lst = Student.GetAllStudents();
+            Student.TampilkanNilaiRataRata(lst);
         }
     }
 }

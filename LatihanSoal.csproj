@@ -54,6 +54,7 @@
     <Compile Include="STUDENT DETAILS\ContactInfo.cs" />
     <Compile Include="STUDENT DETAILS\ScoreInfo.cs" />
     <Compile Include="STUDENT DETAILS\Student.cs" />
+    <Compile Include="STUDENT DETAILS\StudentDetailInfo.cs" />
     <Compile Include="STUDENT DETAILS\SupplyData.cs" />
   </ItemGroup>
   <ItemGroup>
