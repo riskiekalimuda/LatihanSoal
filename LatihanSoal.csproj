@@ -45,6 +45,7 @@
     <Compile Include="BELAJAR GROUPING LINQ\GroupingFileApp.cs" />
     <Compile Include="Complex.cs" />
     <Compile Include="CONVERT_ARRAY\twodmatrix.cs" />
+    <Compile Include="COPY_ARRAY\CopyArrayStep.cs" />
     <Compile Include="EnumDays.cs" />
     <Compile Include="EnumProgram.cs" />
     <Compile Include="Inherit\BentukArea.cs" />
