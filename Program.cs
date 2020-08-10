@@ -18,8 +18,8 @@ namespace LatihanSoal
     {
         static void Main(string[] args)
         {
-            TestDelegate test = new TestDelegate();
-            test.ProcessDelegate();
+            TestArrayDelegate arrDele = new TestArrayDelegate();
+            arrDele.ProcessArrayDelegate(10);
         }
     }
 }
