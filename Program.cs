@@ -1,6 +1,7 @@
 ﻿using LatihanSoal.BELAJAR_GROUPING_LINQ;
 using LatihanSoal.CONVERT_ARRAY;
 using LatihanSoal.COPY_ARRAY;
+using LatihanSoal.DELEGATE_TRIAL;
 using LatihanSoal.Inherit;
 using LatihanSoal.STUDENT_DETAILS;
 using System;
@@ -17,7 +18,8 @@ namespace LatihanSoal
     {
         static void Main(string[] args)
         {
-            CopyArrayStep.ProsesCopyArray();
+            TestDelegate test = new TestDelegate();
+            test.ProcessDelegate();
         }
     }
 }
